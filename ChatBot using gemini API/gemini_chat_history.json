@@ -1,0 +1,79 @@
+{
+    "e74c8df4-0bab-4a6f-8fd4-5bb1889433e6": {
+        "title": "New Chat",
+        "messages": {
+            "ed065f7f-1d9c-430c-a43e-6707296cb526": {
+                "text": "Hiiii",
+                "sender": "user",
+                "created_at": "2025-01-24T20:14:51.138758"
+            },
+            "b90a5825-e0b3-43cd-a90c-b439e93dd4be": {
+                "text": "Hiiii",
+                "sender": "user",
+                "created_at": "2025-01-24T20:14:52.290939"
+            },
+            "e6f3cf11-5c6e-4967-a3ca-b3fe9a207bd8": {
+                "text": "Hiiii\nreply me??",
+                "sender": "user",
+                "created_at": "2025-01-24T20:15:00.778778"
+            },
+            "5d499388-1413-419a-b8ed-36c2846678e0": {
+                "text": "Hiiii\nreply me??",
+                "sender": "user",
+                "created_at": "2025-01-24T20:15:01.474330"
+            },
+            "077331e6-6b16-4ae3-9197-0ea00eb9bd22": {
+                "text": "Hiiii\nreply me??",
+                "sender": "user",
+                "created_at": "2025-01-24T20:15:01.626725"
+            },
+            "f4666cb2-a305-49a0-ae96-6d336c7cf04c": {
+                "text": "Hiiii\nreply me??",
+                "sender": "user",
+                "created_at": "2025-01-24T20:15:01.786722"
+            },
+            "8fb1baa3-7c57-4918-bc16-65eba26633e6": {
+                "text": "Hiiii",
+                "sender": "user",
+                "created_at": "2025-01-24T20:15:10.042465"
+            }
+        },
+        "created_at": "2025-01-24T20:14:45.489628"
+    },
+    "0d46c07d-e08f-4b2d-b2bd-8eb957c1ef5f": {
+        "title": "Hiiii\nreply me??...",
+        "messages": {
+            "d53e1cf7-9f17-4c13-b9f8-ee6d270d0da3": {
+                "text": "Hiiii\nreply me??",
+                "sender": "user",
+                "created_at": "2025-01-24T20:15:13.554857"
+            },
+            "6d513b0b-2f55-4d52-9775-4c5483b309ac": {
+                "text": "Hiiii\nreply me??",
+                "sender": "user",
+                "created_at": "2025-01-24T20:16:33.138473"
+            },
+            "e6aa0467-6370-4a75-90e0-ff38e55816a0": {
+                "text": "hii",
+                "sender": "user",
+                "created_at": "2025-01-24T20:16:38.138549"
+            },
+            "d714183c-f21c-4980-bd16-3ddbf1c460f3": {
+                "text": "Hey there! How can I assist you today? \ud83d\ude0a",
+                "sender": "gemini",
+                "created_at": "2025-01-24T20:16:46.829884"
+            },
+            "535f798a-22a5-4dae-bff1-c6435acf69f6": {
+                "text": "why is so much latency",
+                "sender": "user",
+                "created_at": "2025-01-24T20:16:59.089713"
+            },
+            "39a2554b-33a0-41ef-afc4-430a9519a0ab": {
+                "text": "There could be several reasons why you're experiencing high latency:\n\n**Network Issues:**\n\n* **Slow or congested internet connection:** Check your internet speed and make sure you have a stable connection.\n* **Network bottlenecks:** Identify any points in your network where data flow is restricted, such as routers or switches.\n* **Packet loss:** Ensure that data packets are not being lost or dropped during transmission.\n\n**Hardware Limitations:**\n\n* **Outdated or insufficient hardware:** Ensure that your devices, including your computer, router, and modem, are up-to-date and have adequate processing power.\n* **Overheating:** Check if your devices are overheating, as this can slow down performance.\n\n**Software Issues:**\n\n* **Background processes:** Close any unnecessary programs or processes running in the background that may be consuming bandwidth or resources.\n* **Malware or viruses:** Scan your devices for potential malware or viruses that could be affecting network performance.\n\n**Server-Related Issues:**\n\n* **Server load:** High traffic or a large number of users on a server can increase latency.\n* **Distance to server:** The physical distance between you and the server you're connecting to can contribute to latency.\n\n**Other Factors:**\n\n* **Wi-Fi interference:** If you're using a wireless connection, check for any sources of interference, such as other Wi-Fi networks or electronic devices.\n* **VPN or proxy services:** Using a VPN or proxy can introduce additional latency.\n\n**Troubleshooting Tips:**\n\n* **Restart your devices:** Restarting your computer, router, and modem can often resolve temporary network issues.\n* **Run a speed test:** Check your internet speed using a reliable speed test tool to determine if you have a strong connection.\n* **Check for network congestion:** Use tools like PingPlotter or MTR to identify any network bottlenecks or packet loss.\n* **Update drivers and firmware:** Ensure that your network devices and computer have the latest drivers and firmware installed.\n* **Contact your ISP:** If you've ruled out other issues, contact your internet service provider for assistance.",
+                "sender": "gemini",
+                "created_at": "2025-01-24T20:17:07.227364"
+            }
+        },
+        "created_at": "2025-01-24T20:15:06.953379"
+    }
+}
